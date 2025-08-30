@@ -26,8 +26,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
- <img src="<a href="https://cdnlogo.com/logo/laravel_40129.html"><img src="https://static.cdnlogo.com/logos/l/57/laravel.svg"></a>" height="40" alt="laravel logo" />
-
+<img src="https://static.cdnlogo.com/logos/l/57/laravel.svg" height="40" alt="laravel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
