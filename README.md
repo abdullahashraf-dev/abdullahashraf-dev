@@ -59,5 +59,5 @@
 
 <p align="left">
 💼 LinkedIn: <a href="https://linkedin.com/in/abdullahashrafabdelhady" target="_blank">linkedin.com/in/abdullahashrafabdelhady</a> <br>
-📧 Email: ib.farag@gmail.com
+📧 Email: abdallahabdelhady777@gmail.com
 </p>
